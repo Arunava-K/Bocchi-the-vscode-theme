@@ -3,12 +3,25 @@
   "displayName": "Bocchi-the-vscode-theme",
   "description": "Bocchi becomes a vscode theme!",
   "version": "0.0.1",
+  "publisher": "ReadingSteiner",
   "engines": {
     "vscode": "^1.79.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "dark theme",
+    "bocchi",
+    "anime",
+    "anime theme",
+    "pink theme"
+  ],
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/Arunava-K/Bocchi-the-vscode-theme"
+  },
   "contributes": {
     "themes": [
       {
