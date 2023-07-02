@@ -10,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "Icon.png",
   "keywords": [
     "vscode",
     "dark theme",
