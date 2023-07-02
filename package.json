@@ -1,0 +1,21 @@
+{
+  "name": "bocchi-the-vscode-theme",
+  "displayName": "Bocchi-the-vscode-theme",
+  "description": "Bocchi becomes a vscode theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bocchi-the-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bocchi-the-theme-color-theme.json"
+      }
+    ]
+  }
+}
