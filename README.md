@@ -1,6 +1,5 @@
 <p align="center">
-  <a href='' ><img src='
-https://github.com/Arunava-K/Bocchi-the-vscode-theme/blob/main/Bocchi-Theme-Icon.png?raw=true' 
+  <a href='' ><img src='https://github.com/Arunava-K/Bocchi-the-vscode-theme/blob/main/Bocchi-Theme-Icon.png?raw=true' 
 width="200" height="200" title='Bocchi the theme' /></a>
 </p>
 
